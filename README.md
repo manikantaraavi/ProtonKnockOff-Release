@@ -1,4 +1,4 @@
-<p align="center"><img width="1000" src="https://github.com/manikantaraavi/ProtonKnockOff-Release/blob/main/banner.jpg"></p>
+<p align="center"><img width="1000" src="https://github.com/manikantaraavi/ProtonKnockOff-Release/blob/main/banner.png"></p>
 
 ---------------------------------------------------------------------------------
 
@@ -22,3 +22,9 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 # ProtonKnockOff-Release
 ### Total Downloads Count
   ![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/total?style=social)
+  
+### Downloads Count As Per Build Version
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.3.0_r27-B2/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.3.0_r27-B1/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.1.0_r18-B2-1/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.1.0_r18-B2/total?style=social)
