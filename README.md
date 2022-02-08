@@ -28,3 +28,8 @@ Privacy: Project-Zephyrus(ProtonKnockOFF) helps keep your Data Private with Came
 ![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.3.0_r27-B1/total?style=social)
 ![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.1.0_r18-B2-1/total?style=social)
 ![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.1.0_r18-B2/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.4.0_r29-B1/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.4.0_r29-B1-1/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.4.0_r29-B1-2/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.4.1_r32-B1-Project-Zephyrus/total?style=social)
+![Github Releases (by Release)](https://img.shields.io/github/downloads/manikantaraavi/ProtonKnockOff-Release/12.5.0_r2-B1-Project-Zephyrus/total?style=social)
